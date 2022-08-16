@@ -1,7 +1,9 @@
 randomforest-model:
-  description: Random forest classification model
+  description: <script>alert(2)</script>
   labels:
   - classification
   - churn
+  - <script>alert(3)</script>
   path: .mlem/model/clf-model
   type: model
+test: {}
